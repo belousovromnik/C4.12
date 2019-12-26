@@ -13,3 +13,5 @@ client\src\...
 для запуска сервера набрать из папки 
 C:\Work\vue\my_project\client\src>
 npm run serve
+
+в браузере открыть  http://localhost:8080/
